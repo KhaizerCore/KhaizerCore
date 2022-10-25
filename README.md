@@ -1,7 +1,7 @@
 - 👋 Hi! I'm Gustavo Werkhaizer and I'm 23 years old. Right now, I will be graduating Computeer Engineering (UNIFEI) in december 2022.
 - 👀 I really like to code and I'm a computer hardware enthusiast 😊.
-- 🌱 Right now, I am working as an Embraer Web developer intern.
-- 💞️ I’m looking for a new job position as a full time developer.
+- 🌱 Working as an Embraer Web developer intern, as of now.
+- 💞️ Looking for a job position as a full time developer.
 - 📫 gustavo.werkhaizer@hotmail.com
 
 <!---
