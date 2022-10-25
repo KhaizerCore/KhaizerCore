@@ -3,8 +3,9 @@
 - 💼 Working as an Embraer Web developer intern for 1 year. | JS | HTML | CSS | Bootstrap | Node.js | SQL | Python |
 - 🌱 Looking for a job position as a full time developer.
 - 📫 gustavo.werkhaizer@hotmail.com
-- 📚   Considerable knowledge and experience with OOP, REST, Web Applications, Embedded Systems.
-- 💻  Main technologies and methodologies that I am comfortable to work with:
+- 🤝 linkedin.com/in/gustavo-werkhaizer
+- 📚 Considerable knowledge and experience with OOP, REST, Web Applications, Embedded Systems.
+- 💻 Main technologies and methodologies that I am comfortable to work with:
         * JavaScript & Node.js 
         * Python 
         * C++ 
