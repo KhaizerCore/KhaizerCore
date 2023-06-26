@@ -1,7 +1,7 @@
 - 👋 Hi! I'm Gustavo Werkhaizer and I'm 24 years old.
 - 🌱 I really like to code and I'm a computer hardware enthusiast 😊. 
 - 🎓 Computeer Engineer (UNIFEI).
-- 💼  Working as Jr Java Developer at TINNOVA. Spring | Cloud Solutions
+- 💼  Working as C/C++ & Java Developer at TINNOVA. Cloud Solutions.
 - Worked as Web developer intern for 1.5 years (Embraer). | JS | HTML | CSS | Bootstrap | Node.js | SQL | Python |
 - 📫 gustavo.werkhaizer@hotmail.com
 - 🤝 linkedin.com/in/gustavo-werkhaizer
