@@ -7,9 +7,9 @@
 - 🤝 linkedin.com/in/gustavo-werkhaizer
 - 📚 Considerable knowledge and experience with OOP, REST, Web Applications, Embedded Systems.
 - 💻 Main technologies and methodologies that I am comfortable to work with:
+        * C++ 
         * JavaScript & Node.js 
         * Python 
-        * C++ 
         * Java 
         * TypeScript 
         * MySQL, PostgreSQL 
